@@ -1,7 +1,8 @@
-class Main {
+class VolumeOfCylinder {
     public static void main(String[] args) {
         double radius = 7.5;
-        double area = Math.PI * radius * radius;
-        System.out.println("The area of the circle is: " + area);
+        double height = 10.0;
+        double volume = Math.PI * radius * radius * height;
+        System.out.println("The volume of the cylinder is: " + volume);
     }
 }

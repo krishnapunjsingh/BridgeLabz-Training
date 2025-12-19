@@ -1,4 +1,4 @@
-class Main {
+class CalculateSimpleInterest {
     public static void main(String[] args) {
         double principal = 1000.0; 
         double rate = 5.0;         

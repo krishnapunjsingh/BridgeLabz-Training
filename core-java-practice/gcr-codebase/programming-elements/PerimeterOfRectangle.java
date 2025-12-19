@@ -1,4 +1,4 @@
-class Main {
+class PerimeterOfRectangle {
     public static void main(String[] args) {
         double length = 10.0;
         double width = 5.0;

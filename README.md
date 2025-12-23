@@ -23,3 +23,11 @@ Studied core Java topics like classes, objects, methods, static keyword, and bas
 
 Focus: Coding & Real-Life Problems
 Worked on coding questions and real-life based problems to improve logical thinking and problem-solving skills.
+
+22 December
+
+Focus: This project focuses on practicing Core Java concepts such as strings, arrays, logic building, and exception handling. It includes topics like string comparison, null pointer exceptions, string and array index out-of-bounds exceptions, number format exceptions, converting uppercase to lowercase and lowercase to uppercase without using built-in string methods.
+
+23 December
+
+Focus: A collection of Core Java practice programs focusing on strings, arrays, and logic building. The programs include palindrome, anagram, character frequency, BMI calculator, calendar display, Rock-Paper-Scissors, and student grade calculation, all written using simple loops, arrays, and methods.

@@ -39,3 +39,11 @@ Focus: Practiced Java methods a lot. Learned how to write reusable code and how 
 26 December
 
 Focus: Practiced Java programs mainly focused on strings and methods. Solved problems such as counting vowels and consonants, removing duplicate characters, finding the longest word, checking substring occurrences, and toggling the case of characters. Gained better understanding of method creation, loops, and writing clean and modular code. This practice improved problem-solving skills and strengthened string manipulation concepts in Core Java.
+
+29 December (Monday)
+
+Practiced Core Java programs covering control statements, loops, and switch-case through real-world problems like Employee Wage Computation, Movie Ticket Booking, Library Fine Calculator, Digital Watch Simulation, and Fitness Tracker. Implemented logic using if-else, for/while loops, break/continue, and Math.random(). Focused on writing simple, clean, and modular code with proper variable usage. Strengthened problem-solving skills and understanding of Core Java fundamentals.
+
+30 December (Tuesday)
+
+Practiced Core Java programs focused on classes, methods, and control structures, including Employee Wage Computation, line comparision and snack and ladder programs. Implemented logic using loops, switch-case, random attendance checks, and conditional wage calculations. Worked on method creation, modular code structure, and use of class variables and objects. Enhanced understanding of real-world problem solving, Core Java fundamentals, and basic Git workflow concepts.

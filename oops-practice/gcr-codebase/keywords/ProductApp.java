@@ -17,6 +17,7 @@ class Product {
         return price - (price * discount /100);
     }
     void displayDetails(){
+        
         if(this instanceof Product){
             System.out.println("Product ID: " + productId);
             System.out.println("Product Name: " + productName);
@@ -24,7 +25,6 @@ class Product {
             System.out.println("Quantity: " + quantity);
             System.out.println("Discount: " + discount + "%");
             System.out.println("Price after Discount: $" + getPriceAfterDiscount());
-
             System.out.println();
         }
     }

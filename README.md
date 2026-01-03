@@ -47,3 +47,9 @@ Practiced Core Java programs covering control statements, loops, and switch-case
 30 December (Tuesday)
 
 Practiced Core Java programs focused on classes, methods, and control structures, including Employee Wage Computation, line comparision and snack and ladder programs. Implemented logic using loops, switch-case, random attendance checks, and conditional wage calculations. Worked on method creation, modular code structure, and use of class variables and objects. Enhanced understanding of real-world problem solving, Core Java fundamentals, and basic Git workflow concepts.
+
+31-Dec-2025 (Wednesday): Implemented multiple Java programs demonstrating OOPS concepts such as class, object.Practiced access specifiers (public, protected, private) using real-world examples like Student, Book, BankAccount, and Employee systems.Used constructors, getters, and setters to ensure proper data initialization and controlled access.Successfully completed and tested all assigned programs with correct output and structure.
+
+01-jan-2026 (Thursday): codes of the static,final and instanceof keyword are successfully implemented.Paragraph formatter two scenario-based questions are also implemented.
+
+02-jan-2026 (Friday): OOPs design principles and four scenario based questions successfully implemented and object modelling assignment done.

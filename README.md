@@ -55,3 +55,5 @@ Practiced Core Java programs focused on classes, methods, and control structures
 02-jan-2026 (Friday): OOPs design principles and four scenario based questions successfully implemented and object modelling assignment done.
 
 03-jan-2026 (Saturday):This project includes the successful implementation of Single Inheritance along with all other inheritance types supported in Java, such as Multilevel Inheritance, Hierarchical Inheritance, and Hybrid Inheritance (achieved using interfaces). Additionally, four scenario-based problems have been implemented to demonstrate real-world applications of these concepts.
+
+05-jan-2026 (Monday): Encapsulation,Polymorphism,Interface and Abstract classes code and assignment are successfully implemented.Two leetcode questions are also added.Scenario based questions are also implemented successfully.

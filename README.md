@@ -42,18 +42,32 @@ Focus: Practiced Java programs mainly focused on strings and methods. Solved pro
 
 29 December (Monday)
 
-Practiced Core Java programs covering control statements, loops, and switch-case through real-world problems like Employee Wage Computation, Movie Ticket Booking, Library Fine Calculator, Digital Watch Simulation, and Fitness Tracker. Implemented logic using if-else, for/while loops, break/continue, and Math.random(). Focused on writing simple, clean, and modular code with proper variable usage. Strengthened problem-solving skills and understanding of Core Java fundamentals.
+Focus: Practiced Core Java programs covering control statements, loops, and switch-case through real-world problems like Employee Wage Computation, Movie Ticket Booking, Library Fine Calculator, Digital Watch Simulation, and Fitness Tracker. Implemented logic using if-else, for/while loops, break/continue, and Math.random(). Focused on writing simple, clean, and modular code with proper variable usage. Strengthened problem-solving skills and understanding of Core Java fundamentals.
 
 30 December (Tuesday)
 
-Practiced Core Java programs focused on classes, methods, and control structures, including Employee Wage Computation, line comparision and snack and ladder programs. Implemented logic using loops, switch-case, random attendance checks, and conditional wage calculations. Worked on method creation, modular code structure, and use of class variables and objects. Enhanced understanding of real-world problem solving, Core Java fundamentals, and basic Git workflow concepts.
+Focus: Practiced Core Java programs focused on classes, methods, and control structures, including Employee Wage Computation, line comparision and snack and ladder programs. Implemented logic using loops, switch-case, random attendance checks, and conditional wage calculations. Worked on method creation, modular code structure, and use of class variables and objects. Enhanced understanding of real-world problem solving, Core Java fundamentals, and basic Git workflow concepts.
 
-31-Dec-2025 (Wednesday): Implemented multiple Java programs demonstrating OOPS concepts such as class, object.Practiced access specifiers (public, protected, private) using real-world examples like Student, Book, BankAccount, and Employee systems.Used constructors, getters, and setters to ensure proper data initialization and controlled access.Successfully completed and tested all assigned programs with correct output and structure.
+31-Dec-2025 (Wednesday)
 
-01-jan-2026 (Thursday): codes of the static,final and instanceof keyword are successfully implemented.Paragraph formatter two scenario-based questions are also implemented.
+Focus: Implemented multiple Java programs demonstrating OOPS concepts such as class, object.Practiced access specifiers (public, protected, private) using real-world examples like Student, Book, BankAccount, and Employee systems.Used constructors, getters, and setters to ensure proper data initialization and controlled access.Successfully completed and tested all assigned programs with correct output and structure.
 
-02-jan-2026 (Friday): OOPs design principles and four scenario based questions successfully implemented and object modelling assignment done.
+01-jan-2026 (Thursday)
 
-03-jan-2026 (Saturday):This project includes the successful implementation of Single Inheritance along with all other inheritance types supported in Java, such as Multilevel Inheritance, Hierarchical Inheritance, and Hybrid Inheritance (achieved using interfaces). Additionally, four scenario-based problems have been implemented to demonstrate real-world applications of these concepts.
+Focus: codes of the static,final and instanceof keyword are successfully implemented.Paragraph formatter two scenario-based questions are also implemented.
 
-05-jan-2026 (Monday): Encapsulation,Polymorphism,Interface and Abstract classes code and assignment are successfully implemented.Two leetcode questions are also added.Scenario based questions are also implemented successfully.
+02-jan-2026 (Friday)
+
+Focus: OOPs design principles and four scenario based questions successfully implemented and object modelling assignment done.
+
+03-jan-2026 (Saturday)
+
+Focus: This project includes the successful implementation of Single Inheritance along with all other inheritance types supported in Java, such as Multilevel Inheritance, Hierarchical Inheritance, and Hybrid Inheritance (achieved using interfaces). Additionally, four scenario-based problems have been implemented to demonstrate real-world applications of these concepts.
+
+05-jan-2026 (Monday)
+
+Focus: Encapsulation,Polymorphism,Interface and Abstract classes code and assignment are successfully implemented.Two leetcode questions are also added.Scenario based questions are also implemented successfully.
+
+06-jan-2026(Tuesday)
+
+Focus: This project contains multiple Java programs developed to strengthen understanding of Collections, Strings, Methods, and Custom Exception Handling through real-world, scenario-based applications. Each program is structured using modular methods, proper validation, and user-defined exceptions to ensure robustness and clarity.

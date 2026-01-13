@@ -70,4 +70,21 @@ Focus: Encapsulation,Polymorphism,Interface and Abstract classes code and assign
 
 06-jan-2026(Tuesday)
 
-Focus: This project contains multiple Java programs developed to strengthen understanding of Collections, Strings, Methods, and Custom Exception Handling through real-world, scenario-based applications. Each program is structured using modular methods, proper validation, and user-defined exceptions to ensure robustness and clarity.
+Focus: This project contains multiple Java programs developed to strengthen understanding of Collections, Strings, Methods, and Custom Exception Handling through real-world, scenario-based applications. Each program is structured using modular methods, proper validation, and user-defined exceptions to ensure robustness and cl
+
+07-jan-2026 (Wednesday)
+
+Focus: Two LeetCode problems have been successfully solved, focusing on problem-solving. Ride Management System: Simulates real-world ride booking with driver assignment, dynamic fare calculation using polymorphism, and exception handling.
+
+08-jan-2026 (Thursday)
+
+Focus: Implemented multiple real-world data structure problems using linked lists, including circular and doubly linked lists for scheduling, reservation, and editor features.Practiced CRUD operations, traversal, searching, and pointer management with clean, exam-ready Java implementations.
+
+09-jan-2026 (Friday)
+
+Focus: Designed and implemented Vehicle Rental and Hospital Management systems using Java, applying OOP principles like inheritance, interfaces, encapsulation, and CRUD operations.Built a Flight Booking System using arrays and lists with case-insensitive search, booking, cancellation, and booking history to simulate real-world workflows
+
+
+12-jan-2026 (Monday)
+
+Focus: Designed and analyzed scenario-based Java applications by mapping real-world problems to OOP concepts, interfaces, polymorphism, and exception handling.Focused on defining entities, workflows, and error cases for systems like Banking, Digital Wallet, E-Commerce, and Management platforms.

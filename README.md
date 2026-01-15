@@ -88,3 +88,11 @@ Focus: Designed and implemented Vehicle Rental and Hospital Management systems u
 12-jan-2026 (Monday)
 
 Focus: Designed and analyzed scenario-based Java applications by mapping real-world problems to OOP concepts, interfaces, polymorphism, and exception handling.Focused on defining entities, workflows, and error cases for systems like Banking, Digital Wallet, E-Commerce, and Management platforms.
+
+13-jan-2026 (Tuesday)
+
+Focus : A scenario-based questions as well as Git collaboration, common merge conflicts, and their resolution using standard Git commands.It showcases real-world version control workflow with branching, merging, and conflict handling.
+
+14-jan-2026 (Wednesday)
+
+Focus : Basic assignment completed covering HashMap, Stack, and Queue concepts.Includes implementation and problem-solving using fundamental operations.

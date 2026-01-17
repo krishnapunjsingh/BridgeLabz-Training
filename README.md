@@ -98,6 +98,7 @@ Focus : A scenario-based questions as well as Git collaboration, common merge co
 Focus : Basic assignment completed covering HashMap, Stack, and Queue concepts.Includes implementation and problem-solving using fundamental operations.
 
 15-jan-2026 (Thursday)
+
 Focus : Implementations of sorting algorithms such as Bubble, Insertion, Selection, Count, Merge, Heap, and Quick Sort.These programs are written to strengthen understanding of sorting techniques and their working logic.
 
 16-jan-2026 (Friday)

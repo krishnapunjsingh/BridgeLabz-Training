@@ -104,3 +104,7 @@ Focus : Implementations of sorting algorithms such as Bubble, Insertion, Selecti
 16-jan-2026 (Friday)
 
 Focus : Sorting Algorithms assigment successfully completed and StringBuilder and String buffer assignment codes added.
+
+17-jan-2026 (Saturday)
+
+Focus : Leetcode solutions added and implemented successfully.String Builder,StringBuffer ,Linear Search and Binary Search assignments codes are completed.

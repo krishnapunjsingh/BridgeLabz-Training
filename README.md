@@ -112,3 +112,11 @@ Focus : Leetcode solutions added and implemented successfully.String Builder,Str
 19-jan-2026 (Monday)
 
 Focus : AddressBook problem assignment successfully implemented and completed. Algorithm's Runtime Analysis & Big-O Notation successfully completed.
+
+20-jan-2026 (Tuesday)
+
+Focus : Generics assignments codes are successfully completed and added,DSA Scenario-based questions assignment also implemented and added. Two leetcode solutions added.
+
+21-jan-2026 (Wednesday)
+
+Focus : Collections assignments codes added. ArrayList ,Stack, Queue, hashmap concepts implemented successfully. Leetcode questions added.

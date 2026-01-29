@@ -120,3 +120,27 @@ Focus : Generics assignments codes are successfully completed and added,DSA Scen
 21-jan-2026 (Wednesday)
 
 Focus : Collections assignments codes added. ArrayList ,Stack, Queue, hashmap concepts implemented successfully. Leetcode questions added.
+
+20-jan-2026 (Tuesday)
+
+Focus : Generics assignments codes are successfully completed and added,DSA Scenario-based questions assignment also implemented and added. Two leetcode solutions added.
+
+21-jan-2026 (Wednesday)
+
+Focus : Collections assignments codes added. ArrayList ,Stack, Queue, hashmap concepts implemented successfully. Leetcode questions added.
+
+22-jan-2026 (Thursday)
+
+Focus : Collections assignments codes added and Collections real world applications codes added.
+
+23-jan-2026 (Friday)
+
+Focus : Java Streams assignment codes successfully implemented and added.
+
+27-jan-2026 (Tuesday)
+
+Focus : Exceptions assignments codes added and Lexical twist problem implemented and added. Scenario based questions added.Two LeetCode problems have been successfully solved.
+
+28-jan-2026 (Wednesday)
+
+Focus : Flip Key Problem implemented and added. Scenario based questions added. Regex Assignments codes are added.

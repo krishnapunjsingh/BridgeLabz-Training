@@ -1,6 +1,4 @@
 import java.util.List;
-// import resume.Resume;
-// import jobrole.JobRole;
 
 public class ScreeningPipeline {
 

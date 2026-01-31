@@ -1,24 +1,14 @@
-
-// import jobrole.*;
-// import resume.Resume;
-// import service.ResumeScreeningService;
-// import pipeline.ScreeningPipeline;
-
 import java.util.ArrayList;
 import java.util.List;
 
 public class ResumeApp {
 
     public static void main(String[] args) {
+        Resume<SoftwareEngineer> se  =  new Resume<>("Krishna", new SoftwareEngineer());
 
-        Resume<SoftwareEngineer> se =
-                new Resume<>("Krishna", new SoftwareEngineer());
+        Resume<DataScientist> ds  =  new Resume<>("Anita", new DataScientist());
 
-        Resume<DataScientist> ds =
-                new Resume<>("Anita", new DataScientist());
-
-        Resume<ProductManager> pm =
-                new Resume<>("Rahul", new ProductManager());
+        Resume<ProductManager> pm  =  new Resume<>("Rahul", new ProductManager());
 
         ResumeScreeningService.screenResume(se);
         ResumeScreeningService.screenResume(ds);

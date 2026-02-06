@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class UserInterface {
-
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -25,10 +24,7 @@ public class UserInterface {
             double fuelRequired =
                 util.calculateFuelToFillTank(flightName, currentFuelLevel);
 
-            System.out.println(
-                "Fuel required to fill the tank: " +
-                fuelRequired + " liters"
-            );
+            System.out.println("Fuel required to fill the tank: " + fuelRequired + " liters");
 
         } catch (InvalidFlightException e) {
             System.out.println(e.getMessage());

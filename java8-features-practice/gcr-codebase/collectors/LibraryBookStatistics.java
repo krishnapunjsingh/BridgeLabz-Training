@@ -1,6 +1,8 @@
-import java.util.*;
-import java.util.stream.Collectors;
+import java.util.Arrays;
 import java.util.IntSummaryStatistics;
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
 
 class Book {
     private String title;
@@ -42,7 +44,6 @@ public class LibraryBookStatistics {
                              Collectors.summarizingInt(Book::getPages)
                      ));
 
-        // Print results
         statsByGenre.forEach((genre, stats) -> {
             System.out.println("Genre: " + genre);
             System.out.println("  Total Pages   : " + stats.getSum());

@@ -1,4 +1,6 @@
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 class Employee {
@@ -34,16 +36,8 @@ public class EmployeeSalaryCategorization {
         );
 
         // Group by department and calculate average salary
-        Map<String, Double> avgSalaryByDept =
-                employees.stream()
-                         .collect(Collectors.groupingBy(
-                                 Employee::getDepartment,
-                                 Collectors.averagingDouble(Employee::getSalary)
-                         ));
+        Map<String, Double> avgSalaryByDept = employees.stream().collect(Collectors.groupingBy( Employee::getDepartment, Collectors.averagingDouble(Employee::getSalary)));
 
-        // Print result
-        avgSalaryByDept.forEach((dept, avgSalary) ->
-                System.out.println(dept + " : " + avgSalary)
-        );
+        avgSalaryByDept.forEach((dept, avgSalary) -> System.out.println(dept + " : " + avgSalary));
     }
 }

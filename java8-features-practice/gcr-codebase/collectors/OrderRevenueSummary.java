@@ -1,4 +1,6 @@
-import java.util.*;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 class Order {
@@ -24,14 +26,8 @@ public class OrderRevenueSummary {
         );
 
         // Sum order totals per customer
-        Map<String, Double> revenueByCustomer =
-                orders.stream()
-                      .collect(Collectors.groupingBy(
-                              o -> o.customerName,
-                              Collectors.summingDouble(o -> o.amount)
-                      ));
+        Map<String, Double> revenueByCustomer = orders.stream().collect(Collectors.groupingBy( o -> o.customerName, Collectors.summingDouble(o -> o.amount)));
 
-        // Print result
         revenueByCustomer.forEach((customer, total) ->
                 System.out.println(customer + " : ₹" + total)
         );

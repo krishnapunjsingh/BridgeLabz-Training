@@ -160,3 +160,43 @@ Focus : Reflections and Annotations Assignments codes implemented and added. CSV
 3-feb-2026 (Tuesday)
 
 Focus : Json data Handling assignment codes implemented and added. Stream buzz and Factory hazard analyzer assignment code added.
+
+4-feb-2026 (Wednesday)
+
+Focus : Lambda-functions assignment codes implemented and added.
+
+5-feb-2026 (Thursday)
+
+Focus : Functional Interface assignment codes implemented and added. Scenario based question AeroVigil problem added.
+
+6-feb-2026 (Friday)
+
+Focus : Collectors assignment codes implemented and added. Stream Api assignment codes implemented and added.
+
+7-feb-2026 (Saturday)
+
+Focus : Scenario based question Ocean Fleet problem added.
+
+9-feb-2026 (Monday)
+
+Focus : Multithreading assignment codes implemented and added. TestCase Scenario based code completed.
+
+11-feb-2026 (Wednesday)
+
+Focus : JDBC AND DBMS assignment codes implemented and added.
+
+12-feb-2026 (Thursday)
+
+Focus : Java8 features codes updated and refactored.
+
+13-feb-2026 (Friday)
+
+Focus : Online Course Manager Scenario-based code implemented and added.
+
+14-feb-2026 (Saturday)
+
+Focus : Disaster Relief Resource Allocation System Scenario based code added. Smart Water Tank Monitoring System Scenario based code implemented and added.
+
+16-feb-2026 (Monday)
+
+Focus : Employee Wage Computation problem and Address book problem code implemented and added.

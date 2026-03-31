@@ -1,0 +1,5 @@
+Java is powerful
+Java is fast
+Java is popular
+Python is powerful
+Java and Python

@@ -5,6 +5,7 @@
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -17,6 +18,14 @@
 	<filteredResources>
 		<filter>
 			<id>1774946953286</id>
+=======
+	</buildSpec>
+	<natures>
+	</natures>
+	<filteredResources>
+		<filter>
+			<id>1769770744588</id>
+>>>>>>> io-programming-practice
 			<name></name>
 			<type>30</type>
 			<matcher>

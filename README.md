@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BridgeLabz-Training
 16 December
 
@@ -200,3 +201,5 @@ Focus : Disaster Relief Resource Allocation System Scenario based code added. Sm
 16-feb-2026 (Monday)
 
 Focus : Employee Wage Computation problem and Address book problem code implemented and added.
+=======
+>>>>>>> oops-practice

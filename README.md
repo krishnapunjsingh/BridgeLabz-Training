@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BridgeLabz-Training
 16 December
 

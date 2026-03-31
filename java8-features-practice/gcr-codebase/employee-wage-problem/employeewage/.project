@@ -1,38 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>BridgeLabz-Training</name>
+	<name>employeewage</name>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> java8-features-practice
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
 	<filteredResources>
 		<filter>
-<<<<<<< HEAD
-			<id>1774946953286</id>
-=======
-	</buildSpec>
-	<natures>
-	</natures>
-	<filteredResources>
-		<filter>
-			<id>1769770744588</id>
->>>>>>> io-programming-practice
-=======
-			<id>1771309021859</id>
->>>>>>> java8-features-practice
+			<id>1771309021883</id>
 			<name></name>
 			<type>30</type>
 			<matcher>

@@ -1,3 +1,0 @@
-Hello World
-This is a sample file.
-Java File Handling Example.

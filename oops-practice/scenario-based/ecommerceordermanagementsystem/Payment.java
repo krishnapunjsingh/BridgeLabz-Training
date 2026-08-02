@@ -1,5 +1,0 @@
-// package ecommerceordermanagementsystem;
-
-public interface Payment {
-    void pay(double amount ) throws PaymentFailedException;
-}
